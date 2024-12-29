@@ -1,1 +1,1 @@
-# Jayantparashar10-MedInsight-Personalized-Medical-Literature-Analyzer
+# MedInsight-Personalized-Medical-Literature-Analyzer
